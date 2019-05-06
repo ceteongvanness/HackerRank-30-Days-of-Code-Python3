@@ -16,15 +16,20 @@ Print `Hello, World.` on the first line, and the contents of ***inputString*** o
 
 **Sample Input**
 
+```
 Hello, World.
+```
 
 **Sample Output**
 
+```
 Hello, World.
+```
 
 **Code**
 
-`input_string = input()`
-
-`print('Hello, World.' + "\n" + input_string)`
+```
+input_string = input()
+print('Hello, World.' + "\n" + input_string)
+```
 
