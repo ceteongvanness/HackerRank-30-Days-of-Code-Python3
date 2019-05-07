@@ -39,7 +39,7 @@ Print the total meal cost, where ***totalCost*** is rounded integer result of th
 Given:
 
 $$
-=12, \text { tipPercent }=20, \text { taxPercent }=8
+\text {mealCost} =12, \text { tipPercent }=20, \text { taxPercent }=8
 $$
 
 Calculations:
@@ -53,14 +53,14 @@ $$
 $$
 
 $$
-=\text {mealCost}+t i p+t a x=12+2.4+0.96=15.36
+totalCost =\text {mealCost}+t i p+t a x=12+2.4+0.96=15.36
 $$
 
 $$
-(\text { totalCost })=15
+round(\ { totalCost })=15
 $$
 
-We round totalCost to the nearest dollar (integer) and then print our result,15.
+We round ***totalCost*** to the nearest dollar (integer) and then print our result,***15***.
 
 **Code**
 
