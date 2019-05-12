@@ -19,7 +19,7 @@ Each line **i** of the T subsequent lines contain a String ***S***.
 
 **Output Format**
 
-For each String /S_{j} (where 0<= j <= T - 1), print **$$S_{j}$$**'s even-indexed characters, followed by a space, followed by **$$S_{j}$$**'s  odd-indexed characters.
+For each String **$$S_{j}$$**(where 0<= j <= T - 1), print **$$S_{j}$$**'s even-indexed characters, followed by a space, followed by **$$S_{j}$$**'s  odd-indexed characters.
 
 **Sample Input**
 
