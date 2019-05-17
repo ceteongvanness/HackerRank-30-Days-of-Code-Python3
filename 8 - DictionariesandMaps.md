@@ -19,6 +19,8 @@ After the ***n*** lines of phone book entries, there are an unknown number of li
 **Note***: Names consist of lowercase English alphabetic letters and are first names only.
 
 **Constraints**
+
+
 $$
 1 \leq n \leq 10^{5}
 $$
