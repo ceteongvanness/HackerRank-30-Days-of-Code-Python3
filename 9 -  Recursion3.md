@@ -1,6 +1,8 @@
 **Day 9: Recursion 3**
 
 **Recursive Method for Calculating Factorial**
+
+
 $$
 (N)=\left\{\begin{array}{ll}{1} & {N \leq 1} \\ {N \times \text { factorial }(N-1)} & {\text { otherwise }}\end{array}\right.
 $$
@@ -15,6 +17,8 @@ Write a factorial function that takes a positive integer, ***N*** as parameter a
 A single integer, ***N*** (the argument to pass to factorial)
 
 **Constraints**
+
+
 $$
 2 \leq N \leq 12
 $$
