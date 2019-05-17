@@ -6,6 +6,8 @@
 $$
 (N)=\left\{\begin{array}{ll}{1} & {N \leq 1} \\ {N \times \text { factorial }(N-1)} & {\text { otherwise }}\end{array}\right.
 $$
+
+
 **Task**
 
 Write a factorial function that takes a positive integer, ***N*** as parameter and prints the result of ***N!***(***N*** factorial).
@@ -22,6 +24,8 @@ A single integer, ***N*** (the argument to pass to factorial)
 $$
 2 \leq N \leq 12
 $$
+
+
 Your submission must contain a recursive function named factorial.
 
 **Output Format**
