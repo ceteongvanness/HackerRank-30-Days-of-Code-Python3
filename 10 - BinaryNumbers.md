@@ -8,9 +8,13 @@ Give a base-***10*** integer, ***n***, convert it to binary (base-2). Then find 
 A single integer, ***n***.
 
 **Constraints**
+
+
 $$
 1 \leq n \leq 10^{6}
 $$
+
+
 **Output Format**
 
 Print a single base-***10*** integer denoting the maximum number of consecutive ***1***'s in the binary representation of ***n***.
